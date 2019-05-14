@@ -1,0 +1,41 @@
+NavMeshComponents/
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Deploy/
+Library/
+AssetBundles/
+NavMeshComponents/
+.vs/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/.idea/
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.db.meta
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db

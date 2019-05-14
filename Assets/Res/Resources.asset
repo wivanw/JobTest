@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a300bcc20cbcd74fa0408f7034039fc, type: 3}
+  m_Name: Resources
+  m_EditorClassIdentifier: 
+  EnemyPrefabs:
+  - {fileID: 114735305365200600, guid: b4505035a3d293e45be2aad898a0d61d, type: 2}
+  - {fileID: 114374380288914130, guid: 2c4d7c29076541a45b5738a544c0b24c, type: 2}
+  InfrastructurePrefabs:
+  - {fileID: 114644306640559926, guid: c7c0ded335534bd4eb7c666ee857b90f, type: 2}
+  - {fileID: 114401360589239712, guid: 656a5f14f64b5be42ac8761b89435f33, type: 2}
+  - {fileID: 114111985454715440, guid: 5491c8cf1930a99439486b8eec928be7, type: 2}

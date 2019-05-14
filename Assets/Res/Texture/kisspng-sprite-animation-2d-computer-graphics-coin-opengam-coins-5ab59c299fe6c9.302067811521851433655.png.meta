@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 583f47684be3170489b9897a513b59f5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_0
+    21300002: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_1
+    21300004: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_2
+    21300006: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_3
+    21300008: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_4
+    21300010: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_5
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 4
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1500
+  spriteBorder: {x: 0, y: 3844, z: 4938, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 2500
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f7ada3ecfa1034382521f2e714475f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_1
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3900
+        width: 2300
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a2076918dc13418f552e305b45e9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_2
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 3900
+        width: 1565
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f640dbe40130a343b75ab4b23512850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1200
+        width: 1629
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab02c234b6b04854db8fa6013746e10e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_4
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1200
+        width: 1629
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a0ee388145ae48befea4d14a5c437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-2d-computer-graphics-coin-opengam-coins-5ab59c299fe6c9.302067811521851433655_5
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 1200
+        width: 2243
+        height: 2500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f15fa310e23a42a4ccd98531bf926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -3200, y: -3200}
+      - {x: -3200, y: 3200}
+      - {x: 3200, y: 3200}
+      - {x: 3200, y: -3200}
+    physicsShape:
+    - - {x: -340.625, y: 290.625}
+      - {x: -540.625, y: -143.75}
+      - {x: -540.625, y: -1506.25}
+      - {x: -500, y: -1771.875}
+      - {x: -337.5, y: -1962.5}
+      - {x: 181.25, y: -1962.5}
+      - {x: 365.625, y: -1906.25}
+      - {x: 528.125, y: -1381.25}
+      - {x: 528.125, y: -325}
+      - {x: 387.5, y: 290.625}
+    - - {x: -1971.875, y: 309.375}
+      - {x: -1981.25, y: 37.5}
+      - {x: -1981.25, y: -1806.25}
+      - {x: -1953.125, y: -1943.75}
+      - {x: -1653.125, y: -1943.75}
+      - {x: -1631.25, y: -1800}
+      - {x: -1631.25, y: 309.375}
+    - - {x: 1384.375, y: 321.875}
+      - {x: 1062.5, y: -215.625}
+      - {x: 1062.5, y: -1506.25}
+      - {x: 1340.625, y: -1928.125}
+      - {x: 2778.125, y: -1928.125}
+      - {x: 3028.125, y: -1331.25}
+      - {x: 3028.125, y: 203.125}
+      - {x: 2837.5, y: 321.875}
+    - - {x: 2659.375, y: 2981.25}
+      - {x: 2143.75, y: 2981.25}
+      - {x: 1856.25, y: 2681.25}
+      - {x: 1856.25, y: 731.25}
+      - {x: 2809.375, y: 731.25}
+      - {x: 2921.875, y: 1228.125}
+      - {x: 2921.875, y: 2406.25}
+      - {x: 2903.125, y: 2643.75}
+    - - {x: 900, y: 3015.625}
+      - {x: -296.875, y: 3015.625}
+      - {x: -546.875, y: 2909.375}
+      - {x: -546.875, y: 996.875}
+      - {x: -125, y: 762.5}
+      - {x: 1034.375, y: 762.5}
+      - {x: 1418.75, y: 1156.25}
+      - {x: 1418.75, y: 2403.125}
+      - {x: 1168.75, y: 2956.25}
+    - - {x: -1403.125, y: 3031.25}
+      - {x: -2725, y: 3031.25}
+      - {x: -3043.75, y: 2346.875}
+      - {x: -3043.75, y: 1334.375}
+      - {x: -2759.375, y: 918.75}
+      - {x: -2287.5, y: 778.125}
+      - {x: -1343.75, y: 778.125}
+      - {x: -803.125, y: 1134.375}
+      - {x: -803.125, y: 2578.125}
+      - {x: -846.875, y: 2831.25}
+    bones: []
+    spriteID: 331e9d79ea7818f4da7aa3dc607dc460
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
